@@ -1,0 +1,15 @@
+/Users/danieltran/linkedList/bin/Debug/net5.0/linkedList.deps.json
+/Users/danieltran/linkedList/bin/Debug/net5.0/linkedList.runtimeconfig.json
+/Users/danieltran/linkedList/bin/Debug/net5.0/linkedList.runtimeconfig.dev.json
+/Users/danieltran/linkedList/bin/Debug/net5.0/linkedList.dll
+/Users/danieltran/linkedList/bin/Debug/net5.0/ref/linkedList.dll
+/Users/danieltran/linkedList/bin/Debug/net5.0/linkedList.pdb
+/Users/danieltran/linkedList/obj/Debug/net5.0/linkedList.csprojAssemblyReference.cache
+/Users/danieltran/linkedList/obj/Debug/net5.0/linkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieltran/linkedList/obj/Debug/net5.0/linkedList.AssemblyInfoInputs.cache
+/Users/danieltran/linkedList/obj/Debug/net5.0/linkedList.AssemblyInfo.cs
+/Users/danieltran/linkedList/obj/Debug/net5.0/linkedList.csproj.CoreCompileInputs.cache
+/Users/danieltran/linkedList/obj/Debug/net5.0/linkedList.dll
+/Users/danieltran/linkedList/obj/Debug/net5.0/ref/linkedList.dll
+/Users/danieltran/linkedList/obj/Debug/net5.0/linkedList.pdb
+/Users/danieltran/linkedList/obj/Debug/net5.0/linkedList.genruntimeconfig.cache
